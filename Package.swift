@@ -20,8 +20,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "EDNAPushLite",
-            url: "https://maven-pub.edna.ru/repository/maven-public/com/edna/ios/push-lite/3.1.1/edna-push-lite-3.1.1.zip",
-            checksum: "5014626e50789a8aa308af161d4679d3d172bcadb299701f68d461c498c06fec"
+            url: "https://maven-pub.edna.ru/repository/maven-public/com/edna/ios/push-lite/3.1.3/edna-push-lite-3.1.3.zip",
+            checksum: "bbe773f1dfea681732633fd86e2f0ec1084365545fe1b38f97aeed58c4a7937e"
         ),
     ]
 )
